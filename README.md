@@ -56,8 +56,14 @@ Feel free to reach out or collaborate!
 ## 🖼️ Preview
 
 - 💻 **Desktop View**  
-- 📱 **Mobile View**
+### 🖥️ Desktop View
+![Desktop View](src/assets/dokumentasi/view-desktop.jpeg)
 
+### 📱 Mobile View
+![Mobile View](src/assets/dokumentasi/view-mobile.jpeg)
+
+### 🔍 Mobile Navbar Focus
+![Navbar Focus](src/assets/dokumentasi/view-mobile-navbar-focus.jpeg)
 ---
 
 ## ⚠️ Catatan
