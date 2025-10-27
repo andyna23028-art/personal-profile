@@ -54,8 +54,7 @@ Feel free to reach out or collaborate!
 ---
 
 ## 🖼️ Preview
-
-- 💻 **Desktop View**  
+ 
 ### 🖥️ Desktop View
 ![Desktop View](src/assets/dokumentasi/view-desktop.jpeg)
 
