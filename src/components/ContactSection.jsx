@@ -13,9 +13,9 @@ const ContactSection = () => {
 
           <div className="space-y-4 text-[#6C63FF] font-medium">
             <div className="flex items-center gap-3">
-              <span>📧</span>
-              <a href="mailto:andynaaulilaa@gmail.com">andynaaulilaa@gmail.com</a>
-            </div>
+             <span>📧</span>
+             <a href="mailto:andynaauliaa@gmail.com">andynaauliaa@gmail.com</a>
+          </div>
             <div className="flex items-center gap-3">
               <span>📞</span>
               <a href="tel:+6287879195912">+62 878-7919-5912</a>
