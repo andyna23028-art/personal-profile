@@ -49,7 +49,7 @@ src/
 Feel free to reach out or collaborate!
 
 - 📧 Email: [andynaaaulia@gmail.com]
-- 📱 Phone: +62 882-2617-1131  
+- 📱 Phone: +62 878-7919-5912  
 
 ---
 
